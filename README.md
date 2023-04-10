@@ -1,10 +1,14 @@
 ⦁ Objetivo do programa:
+
+
 O objetivo do nosso programa é auxiliar um produtor local no controle do estoque, vendas e
 lucro de seus produtos, assim como no cálculo do lucro diário de cada produto, e também
 no lucro total do dia.
 
 
 ⦁ Métodos Desenvolvidos:
+
+
 O objetivo do nosso método de criação de arquivos é isentar o usuário de ir além da
 execução do programa, de modo que já é criado automaticamente um arquivo numa pasta
 já existente no seu computador.
